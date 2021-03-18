@@ -1,1 +1,1 @@
-require("./src/web.html")
+require("./src/site/web.html")
