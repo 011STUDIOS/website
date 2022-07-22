@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=011studios&label=Profile%20views&color=0e75b6&style=flat" alt="011studios" /> </p>
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=1lucas1apk&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&icon_color=539BF5&hide_title=true&count_private=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=1lucas1apk&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&icon_color=00000000&count_private=true)]()
 - 🌱 I’m currently learning **MangoDB, Python**
 
 - 📫 How to reach me **lucasmorais0306@gmail.com**
