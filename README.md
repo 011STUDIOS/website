@@ -2,7 +2,7 @@
 Hello! I'm Lucas, 17 years old (born on 03/06). 👋
 
 ## Skills
-I work with Node.js, TypeScript, Python, and Ruby. 💻
+I work with Javascript, TypeScript, Rust(learning) / your basics(Java, Python, Lua, Perl, and Ruby). 💻
 
 ## Experience
 Currently exploring various areas in the tech world.
