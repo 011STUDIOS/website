@@ -50,9 +50,7 @@
 <h2>🛠️ Skills & Tools</h2>
 
 <ul>
-  <li><b>Programming Languages:</b> JavaScript, TypeScript, Rust (learning), Java, Python, HTML, CSS.</li>
-  <li><b>Backend Development:</b> Node.js, Express.js, Lavalink integrations.</li>
-  <li><b>Frontend Skills:</b> Basic web interfaces and responsive design.</li>
+  <li><b>Programming Languages:</b> JavaScript, TypeScript, Rust (learning), Java, Python, Lua.</li>
   <li><b>Database Management:</b> JSON-based storage solutions and dynamic data handling.</li>
   <li><b>Discord Bot Development:</b> Extensive experience with <code>discord.js</code> and <code>moonlink.js</code>.</li>
   <li><b>Version Control:</b> Git, GitHub.</li>
